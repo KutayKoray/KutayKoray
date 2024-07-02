@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - ⚡ Fun fact: ...
 
+![](https://komarev.com/ghpvc/?username=KutayKoray&style=flat&color=238636&label=views)
 <!---
 KutayKoray/KutayKoray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
